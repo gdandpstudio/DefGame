@@ -12,8 +12,8 @@
   "duration":1.488958,
   "name":"snd_startup",
   "parent":{
-    "name":"DefGame",
-    "path":"DefGame.yyp",
+    "name":"Звуки",
+    "path":"folders/Звуки.yy",
   },
   "preload":false,
   "resourceType":"GMSound",
