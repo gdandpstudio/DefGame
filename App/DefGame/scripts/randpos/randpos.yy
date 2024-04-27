@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"randpos",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"randpos",
+  "parent":{
+    "name":"Скрипты",
+    "path":"folders/Скрипты.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

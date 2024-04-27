@@ -1,0 +1,1 @@
+url_open_ext("https://github.com/gdandpstudio/DefGame", "_blank")

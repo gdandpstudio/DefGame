@@ -1,0 +1,1 @@
+instance_place(0, 0, obj_letter)
