@@ -1,15 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_bios_spawnkill",
+  "%Name":"obj_aboba",
   "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_bios_spawnkill",
+  "name":"obj_aboba",
   "overriddenProperties":[],
   "parent":{
-    "name":"bios",
-    "path":"folders/Объекты/bios.yy",
+    "name":"Объекты",
+    "path":"folders/Объекты.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_bios_spawnkill",
-    "path":"sprites/spr_bios_spawnkill/spr_bios_spawnkill.yy",
+    "name":"spr_aboba",
+    "path":"sprites/spr_aboba/spr_aboba.yy",
   },
   "spriteMaskId":null,
   "visible":true,

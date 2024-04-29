@@ -1,0 +1,1 @@
+draw_healthbar(x - 50, y - 25, x + 150, y, global.plrhp, $FF000000 & $FFFFFF, $FF0000FF & $FFFFFF, $FF00FF00 & $FFFFFF, 0, (($FF000000>>24) != 0), (($FFFFFFFF>>24) != 0));

@@ -1,0 +1,1 @@
+global.scorew = 0;

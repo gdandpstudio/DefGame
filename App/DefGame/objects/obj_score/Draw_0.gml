@@ -1,0 +1,1 @@
+draw_text(x, y, string("Score: ") + string(global.scorew));

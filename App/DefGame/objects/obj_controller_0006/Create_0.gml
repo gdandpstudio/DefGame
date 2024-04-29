@@ -1,0 +1,1 @@
+global.plrhp = 100

@@ -1,9 +1,9 @@
 {
   "$GMScript":"",
-  "%Name":"randomletter",
+  "%Name":"ltrspwn",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"randomletter",
+  "name":"ltrspwn",
   "parent":{
     "name":"Скрипты",
     "path":"folders/Скрипты.yy",
