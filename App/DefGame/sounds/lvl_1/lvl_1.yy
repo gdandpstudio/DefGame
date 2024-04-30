@@ -1,6 +1,6 @@
 {
   "$GMSound":"",
-  "%Name":"lvl_0",
+  "%Name":"lvl_1",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -10,7 +10,7 @@
   "compression":0,
   "conversionMode":0,
   "duration":120.011,
-  "name":"lvl_0",
+  "name":"lvl_1",
   "parent":{
     "name":"Звуки",
     "path":"folders/Звуки.yy",
@@ -19,7 +19,7 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"lvl_0.mp3",
+  "soundFile":"lvl_1.mp3",
   "type":0,
   "volume":1.0,
 }
