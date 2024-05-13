@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_gj_ach",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_gj_ach",
+  "parent":{
+    "name":"scripts",
+    "path":"folders/ExApi/scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

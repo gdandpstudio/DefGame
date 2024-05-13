@@ -1,0 +1,5 @@
+global.achs = ds_map_create()
+ds_map_add(global.achs, 0, spr_achievement_bronze)
+ds_map_add(global.achs, 1, spr_achievement_silver)
+ds_map_add(global.achs, 2, spr_achievement_gold)
+ds_map_add(global.achs, 3, spr_achievement_platinum)

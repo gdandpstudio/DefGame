@@ -19,6 +19,7 @@ if (!GameJolt_User_IsLogged()) {
                 ini_write_string("GameJolt", "gj_un", gj_un);
                 ini_write_string("GameJolt", "gj_gt", gj_gt);
                 audio_play_sound(snd_gj_login, 1, false);
+				scr_gj_ach(232483, 0, "Welcome!")
 				ini_write_real("GameJolt", "firstlogin", 0)
                 image_index = 1;
 				ini_close()
