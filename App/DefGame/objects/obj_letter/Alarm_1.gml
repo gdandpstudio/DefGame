@@ -23,6 +23,8 @@ else
 		if(b == 2)
 		{
 			instance_destroy();
+			global.plrhp += -50
+			effect_create_above(1, x+64, y+64, 2, $FFFFFF00 & $ffffff);
 		}
 	}
 }
