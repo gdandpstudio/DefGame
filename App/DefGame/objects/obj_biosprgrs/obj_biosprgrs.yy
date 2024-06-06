@@ -10,8 +10,8 @@
   "name":"obj_biosprgrs",
   "overriddenProperties":[],
   "parent":{
-    "name":"Спрайты",
-    "path":"folders/Спрайты.yy",
+    "name":"Объекты",
+    "path":"folders/Объекты.yy",
   },
   "parentObjectId":null,
   "persistent":false,

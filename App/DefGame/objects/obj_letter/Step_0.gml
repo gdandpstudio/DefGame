@@ -9,7 +9,7 @@ if(d == true)
 		{
 			global.scorew += real(100);
 			global.plrhp += 10
-			effect_create_above(1, x+64, y+64, 2, $FF00FF00 & $ffffff);
+			effect_create_above(1, x, y, 2, $FF00FF00 & $ffffff);
 			instance_destroy();
 		}
 	}

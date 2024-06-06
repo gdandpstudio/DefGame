@@ -1,0 +1,1 @@
+ltrspwn(4, irandom_range(0, 1920), irandom_range(0, 1080))

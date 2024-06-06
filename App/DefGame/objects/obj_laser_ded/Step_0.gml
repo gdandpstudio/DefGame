@@ -1,0 +1,1 @@
+display_mouse_set(x ,y)

@@ -8,8 +8,8 @@
   "name":"obj_controller_0006",
   "overriddenProperties":[],
   "parent":{
-    "name":"Объекты",
-    "path":"folders/Объекты.yy",
+    "name":"controllers",
+    "path":"folders/Объекты/controllers.yy",
   },
   "parentObjectId":null,
   "persistent":false,
