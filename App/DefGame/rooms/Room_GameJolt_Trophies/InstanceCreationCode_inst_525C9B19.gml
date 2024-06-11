@@ -1,2 +1,0 @@
-
-text = "[Single Fetch]";

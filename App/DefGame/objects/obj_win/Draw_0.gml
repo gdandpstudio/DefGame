@@ -1,0 +1,7 @@
+draw_set_font(fnt25)
+draw_self()
+draw_text(x + 50, y + 50, "You won!")
+draw_text(x + 50, y + 100, global.lvname)
+draw_text(x + 50, y + 150, global.lvauth)
+draw_healthbar(x + 50, y + 200, x + 654, y + 232, global.scorew_perc, c_blue, c_white, c_white, 0, false, true)
+draw_text(x + 50, y + 200, string_format(global.scorew + "/" + global.scorew_max, 6, 0))

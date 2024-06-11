@@ -18,6 +18,7 @@
     {"name":"inst_6AA66FC1","path":"rooms/rm_desktop/rm_desktop.yy",},
     {"name":"inst_25B3DB0B","path":"rooms/rm_desktop/rm_desktop.yy",},
     {"name":"inst_76133511","path":"rooms/rm_desktop/rm_desktop.yy",},
+    {"name":"inst_421B2972","path":"rooms/rm_desktop/rm_desktop.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -36,6 +37,7 @@
         {"$GMRInstance":"","%Name":"inst_70B1D58D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_70B1D58D","objectId":{"name":"obj_settings","path":"objects/obj_settings/obj_settings.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.5,"scaleY":1.5,"x":672.0,"y":928.0,},
         {"$GMRInstance":"","%Name":"inst_6AA66FC1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6AA66FC1","objectId":{"name":"obj_gj_login","path":"objects/obj_gj_login/obj_gj_login.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":4.0,"scaleY":4.0,"x":32.0,"y":896.0,},
         {"$GMRInstance":"","%Name":"inst_76133511","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_76133511","objectId":{"name":"obj_cmd","path":"objects/obj_cmd/obj_cmd.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.75,"scaleY":0.75,"x":192.0,"y":992.0,},
+        {"$GMRInstance":"","%Name":"inst_421B2972","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_421B2972","objectId":{"name":"obj_playroom","path":"objects/obj_playroom/obj_playroom.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":32.0,"y":32.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"Assets_2","assets":[
         {"$GMRSpriteGraphic":"","%Name":"graphic_142C32BE","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_142C32BE","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"spr_comp","path":"sprites/spr_comp/spr_comp.yy",},"x":32.0,"y":32.0,},

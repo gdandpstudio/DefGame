@@ -1,0 +1,1 @@
+global.scorew_max = 1900
