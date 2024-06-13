@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"ltrspwnrandrandpos",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ltrspwnrandrandpos",
+  "parent":{
+    "name":"Скрипты",
+    "path":"folders/Скрипты.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

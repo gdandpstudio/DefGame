@@ -9,8 +9,8 @@
   "name":"obj_win",
   "overriddenProperties":[],
   "parent":{
-    "name":"0_1",
-    "path":"folders/Объекты/lvls/0_1.yy",
+    "name":"lvls",
+    "path":"folders/Объекты/lvls.yy",
   },
   "parentObjectId":null,
   "persistent":false,

@@ -24,8 +24,9 @@ else
 		{
 			instance_destroy();
 			if(global.plrimm == false){
-				global.plrhp += -25 
+				global.plrhp -= 50 
 			}
+			global.scorewn += 100
 			effect_create_above(1, x, y, 2, $FFFFFF00 & $ffffff);
 		}
 	}

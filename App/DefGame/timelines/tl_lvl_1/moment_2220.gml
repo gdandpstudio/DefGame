@@ -1,0 +1,4 @@
+killspwnrand()
+killspwnrand()
+killspwnrand()
+ltrspwnrandrandpos()

@@ -20,6 +20,10 @@ if (!GameJolt_User_IsLogged()) {
                 ini_write_string("GameJolt", "gj_gt", gj_gt);
                 audio_play_sound(snd_gj_login, 1, false);
 				ini_write_real("GameJolt", "firstlogin", 0)
+				liosu = show_question("Login on startup?")
+				if(liosu){
+					ini_write_real("GameJolt", "logInONStartUp", 1)
+				}
                 image_index = 1;
 				ini_close()
             },
@@ -31,10 +35,12 @@ if (!GameJolt_User_IsLogged()) {
             }
         );
     } else {
-        // Если это не первый вход, пытаемся войти из кэша
-        GameJolt_User_LogIn_FromCache();
-        image_index = 1;
-        audio_play_sound(snd_gj_login, 1, false);
-		ini_close()
+        var a = ini_read_real("GameJolt", "logInOnStartUp", 0)
+		if(a = 0){
+			GameJolt_User_LogIn_FromCache();
+			image_index = 1;
+			audio_play_sound(snd_gj_login, 1, false);
+			ini_close()
+		}
     }
 }
