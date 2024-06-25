@@ -12,7 +12,7 @@
     {"name":"inst_28F38F8C","path":"rooms/rm_lvl_1/rm_lvl_1.yy",},
     {"name":"inst_7CAC24C8","path":"rooms/rm_lvl_1/rm_lvl_1.yy",},
   ],
-  "isDnd":true,
+  "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"ltrslay","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"","%Name":"inst_4D6A3A30","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4D6A3A30","objectId":{"name":"obj_win","path":"objects/obj_win/obj_win.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":11.0,"scaleY":5.0,"x":576.0,"y":384.0,},

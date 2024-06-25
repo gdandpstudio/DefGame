@@ -1,1 +1,1 @@
-lvlname("plenka - Nightmare", 3, true)
+lvlname("plenka - Nightmare", 2, true)

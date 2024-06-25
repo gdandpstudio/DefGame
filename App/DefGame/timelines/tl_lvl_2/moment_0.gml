@@ -1,0 +1,1 @@
+audio_play_sound(obj_lvl_2, 0, 0, 1.0, 0, 1.0);

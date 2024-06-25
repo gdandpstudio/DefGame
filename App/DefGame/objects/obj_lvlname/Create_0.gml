@@ -10,6 +10,10 @@ else if(room == rm_lvl_1){
 	a = "plenka"
 	n = "Nightmare"
 }
+else if(room == rm_lvl_2){
+	a = "[NCS]Electronomia"
+	n = "Sky High pt. II"
+}
 
 global.lvname = n
 global.lvauth = "By " + a
