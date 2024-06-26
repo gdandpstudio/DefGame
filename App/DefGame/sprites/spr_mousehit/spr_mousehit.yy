@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"DefGame",
-    "path":"DefGame.yyp",
+    "name":"Спрайты",
+    "path":"folders/Спрайты.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

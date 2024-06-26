@@ -1,0 +1,1 @@
+draw_text_color(x, y, c, c_black, c_black, c_black, c_black, 255)

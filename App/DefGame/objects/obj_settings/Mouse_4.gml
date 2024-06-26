@@ -1,18 +1,10 @@
-/// @DnDAction : YoYo Games.Audio.Play_Audio
-/// @DnDVersion : 1.1
-/// @DnDHash : 231D111C
-/// @DnDArgument : "soundid" "error"
-/// @DnDArgument : "offset" "0"
-/// @DnDSaveInfo : "soundid" "error"
-audio_play_sound(error, 0, 0, 1.0, 0, 1.0);
-
-/// @DnDAction : YoYo Games.Common.Variable
-/// @DnDVersion : 1
-/// @DnDHash : 0C105687
-/// @DnDApplyTo : {obj_error_noset}
-/// @DnDArgument : "expr" "true"
-/// @DnDArgument : "var" "visible"
-with(obj_error_noset) {
-visible = true;
-
+ini_open("bios.ini")
+var a = ini_read_real("bios", "level", 1)
+ini_close()
+if(a == 2){
+	camera_set_view_pos(view_camera[0], 1920, 0)
+	obj_apps_menu.visible = false
+}
+else{
+	room_goto(rm_lvl_1)
 }

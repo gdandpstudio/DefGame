@@ -10,7 +10,15 @@ else if(room == rm_lvl_1){
 	a = "plenka"
 	n = "Nightmare"
 }
+else if(room == rm_lvl_1_1){
+	a = "plenka"
+	n = "Nightmare"
+}
 else if(room == rm_lvl_2){
+	a = "[NCS]Electronomia"
+	n = "Sky High pt. II"
+}
+else if(room == rm_lvl_2_1){
 	a = "[NCS]Electronomia"
 	n = "Sky High pt. II"
 }
