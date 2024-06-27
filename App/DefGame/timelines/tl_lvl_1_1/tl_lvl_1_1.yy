@@ -115,7 +115,7 @@
   "name":"tl_lvl_1_1",
   "parent":{
     "name":"1_1",
-    "path":"folders/Временные шкалы/1_1.yy",
+    "path":"folders/Временные шкалы/lvls/1_1.yy",
   },
   "resourceType":"GMTimeline",
   "resourceVersion":"2.0",

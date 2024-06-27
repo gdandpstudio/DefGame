@@ -1,16 +1,16 @@
 {
   "$GMSound":"",
-  "%Name":"obj_lvl_2",
+  "%Name":"snd_lvl_2",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
   },
   "bitDepth":1,
-  "bitRate":128,
+  "bitRate":512,
   "compression":0,
   "conversionMode":0,
   "duration":247.61467,
-  "name":"obj_lvl_2",
+  "name":"snd_lvl_2",
   "parent":{
     "name":"Звуки",
     "path":"folders/Звуки.yy",
@@ -18,8 +18,8 @@
   "preload":false,
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
-  "sampleRate":44100,
-  "soundFile":"obj_lvl_2.mp3",
-  "type":1,
+  "sampleRate":48000,
+  "soundFile":"snd_lvl_2.mp3",
+  "type":0,
   "volume":1.0,
 }

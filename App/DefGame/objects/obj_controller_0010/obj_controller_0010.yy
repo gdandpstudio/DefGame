@@ -1,15 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"obj_tlstrt1_1",
+  "%Name":"obj_controller_0010",
   "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_tlstrt1_1",
+  "name":"obj_controller_0010",
   "overriddenProperties":[],
   "parent":{
-    "name":"1_1",
-    "path":"folders/Временные шкалы/lvls/1_1.yy",
+    "name":"controllers",
+    "path":"folders/Объекты/controllers.yy",
   },
   "parentObjectId":null,
   "persistent":false,
