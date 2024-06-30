@@ -123,6 +123,7 @@
     {"name":"Scr_GameJolt_Success","order":4,"path":"scripts/Scr_GameJolt_Success/Scr_GameJolt_Success.yy",},
     {"name":"Scr_GameJolt_UserFunctions","order":5,"path":"scripts/Scr_GameJolt_UserFunctions/Scr_GameJolt_UserFunctions.yy",},
     {"name":"snd_ach","order":4,"path":"sounds/snd_ach/snd_ach.yy",},
+    {"name":"snd_avi_1","order":8,"path":"sounds/snd_avi_1/snd_avi_1.yy",},
     {"name":"snd_gj_login","order":1,"path":"sounds/snd_gj_login/snd_gj_login.yy",},
     {"name":"snd_lvl_0_old","order":3,"path":"sounds/snd_lvl_0_old/snd_lvl_0_old.yy",},
     {"name":"snd_lvl_0","order":5,"path":"sounds/snd_lvl_0/snd_lvl_0.yy",},

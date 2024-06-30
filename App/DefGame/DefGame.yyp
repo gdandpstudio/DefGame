@@ -167,6 +167,7 @@
     {"id":{"name":"scr_gj_ach","path":"scripts/scr_gj_ach/scr_gj_ach.yy",},},
     {"id":{"name":"error","path":"sounds/error/error.yy",},},
     {"id":{"name":"snd_ach","path":"sounds/snd_ach/snd_ach.yy",},},
+    {"id":{"name":"snd_avi_1","path":"sounds/snd_avi_1/snd_avi_1.yy",},},
     {"id":{"name":"snd_gj_login_error","path":"sounds/snd_gj_login_error/snd_gj_login_error.yy",},},
     {"id":{"name":"snd_gj_login","path":"sounds/snd_gj_login/snd_gj_login.yy",},},
     {"id":{"name":"snd_lvl_0_old","path":"sounds/snd_lvl_0_old/snd_lvl_0_old.yy",},},
