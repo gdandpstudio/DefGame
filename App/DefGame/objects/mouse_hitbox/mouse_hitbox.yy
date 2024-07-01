@@ -35,5 +35,5 @@
     "path":"sprites/spr_mousehit/spr_mousehit.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }
