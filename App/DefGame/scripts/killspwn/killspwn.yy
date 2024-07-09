@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"killspwn",
   "isCompatibility":false,
   "isDnD":false,

@@ -2,8 +2,8 @@
   "$GMObject":"",
   "%Name":"obj_kill_ded",
   "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"mouse_hitbox","path":"objects/mouse_hitbox/mouse_hitbox.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"mouse_hitbox","path":"objects/mouse_hitbox/mouse_hitbox.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"obj_kill_ded",

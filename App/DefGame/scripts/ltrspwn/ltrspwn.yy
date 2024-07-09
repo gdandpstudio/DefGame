@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"ltrspwn",
   "isCompatibility":false,
   "isDnD":false,
