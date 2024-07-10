@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"console_log",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"console_log",
+  "parent":{
+    "name":"Other",
+    "path":"folders/Scripts/TwitchIO/Other.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"twitch_chat_disconnect",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"twitch_chat_disconnect",
+  "parent":{
+    "name":"Main",
+    "path":"folders/Scripts/TwitchIO/Main.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"format",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"format",
+  "parent":{
+    "name":"Other",
+    "path":"folders/Scripts/TwitchIO/Other.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

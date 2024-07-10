@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"twitch_send_msg",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"twitch_send_msg",
+  "parent":{
+    "name":"Main",
+    "path":"folders/Scripts/TwitchIO/Main.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

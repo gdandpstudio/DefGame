@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"example_command",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"example_command",
+  "parent":{
+    "name":"Commands",
+    "path":"folders/Scripts/TwitchIO/Commands.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
