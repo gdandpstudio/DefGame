@@ -6,10 +6,10 @@
     "path":"audiogroups/audiogroup_default",
   },
   "bitDepth":1,
-  "bitRate":128,
+  "bitRate":512,
   "compression":0,
   "conversionMode":0,
-  "duration":172.0947,
+  "duration":127.586555,
   "name":"snd_internet_theme",
   "parent":{
     "name":"Звуки",
@@ -19,7 +19,7 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"snd_internet_theme.mp3",
+  "soundFile":"snd_internet_theme.ogg",
   "type":0,
   "volume":1.0,
 }

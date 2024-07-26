@@ -9,5 +9,6 @@ global.cosloaded = false;
 /// @DnDVersion : 1.1
 /// @DnDHash : 6AEC4178
 /// @DnDArgument : "path" "ph_cos"
+/// @DnDArgument : "speed" "10"
 /// @DnDSaveInfo : "path" "ph_cos"
-path_start(ph_cos, 1, path_action_stop, false);
+path_start(ph_cos, 10, path_action_stop, false);

@@ -4,6 +4,7 @@ ini_close()
 if(a == 2){
 	camera_set_view_pos(view_camera[0], 1920, 0)
 	obj_apps_menu.visible = false
+	global.desktopstatus = 1
 }
 else{
 	room_goto(rm_lvl_1)

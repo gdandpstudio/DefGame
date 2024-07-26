@@ -1,0 +1,1 @@
+global.desktopstatus = 0
