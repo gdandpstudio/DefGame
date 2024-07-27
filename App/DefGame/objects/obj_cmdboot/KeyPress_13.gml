@@ -35,6 +35,9 @@ else if(keyboard_string == "boot os.se1dsoft.kit"){
 		show_message("Unknown package")
 	}
 }
+else if(keyboard_string == "boot os.skibidigyatrizz.sigma" && current_month == 4 && current_day == 1){
+	room_goto(rm_skibidigyatrizz_sigmaOS)
+}
 else{
 	show_message("Unknown package")
 }

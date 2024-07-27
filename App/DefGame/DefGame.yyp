@@ -67,7 +67,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.4.1.152",
+    "IDEVersion":"2024.6.2.162",
   },
   "name":"DefGame",
   "resources":[
@@ -180,6 +180,7 @@
     {"id":{"name":"rm_playroom","path":"rooms/rm_playroom/rm_playroom.yy",},},
     {"id":{"name":"rm_se1dsoft_kitiOS","path":"rooms/rm_se1dsoft_kitiOS/rm_se1dsoft_kitiOS.yy",},},
     {"id":{"name":"rm_shutdown","path":"rooms/rm_shutdown/rm_shutdown.yy",},},
+    {"id":{"name":"rm_skibidigyatrizz_sigmaOS_desktop","path":"rooms/rm_skibidigyatrizz_sigmaOS_desktop/rm_skibidigyatrizz_sigmaOS_desktop.yy",},},
     {"id":{"name":"rm_skibidigyatrizz_sigmaOS","path":"rooms/rm_skibidigyatrizz_sigmaOS/rm_skibidigyatrizz_sigmaOS.yy",},},
     {"id":{"name":"action","path":"scripts/action/action.yy",},},
     {"id":{"name":"console_log","path":"scripts/console_log/console_log.yy",},},
@@ -302,6 +303,7 @@
     {"id":{"name":"spr_mousehit","path":"sprites/spr_mousehit/spr_mousehit.yy",},},
     {"id":{"name":"spr_mp3","path":"sprites/spr_mp3/spr_mp3.yy",},},
     {"id":{"name":"spr_n","path":"sprites/spr_n/spr_n.yy",},},
+    {"id":{"name":"spr_newicon","path":"sprites/spr_newicon/spr_newicon.yy",},},
     {"id":{"name":"spr_o","path":"sprites/spr_o/spr_o.yy",},},
     {"id":{"name":"spr_options","path":"sprites/spr_options/spr_options.yy",},},
     {"id":{"name":"spr_p","path":"sprites/spr_p/spr_p.yy",},},
@@ -316,6 +318,7 @@
     {"id":{"name":"spr_secret","path":"sprites/spr_secret/spr_secret.yy",},},
     {"id":{"name":"spr_sfjadklfmsv","path":"sprites/spr_sfjadklfmsv/spr_sfjadklfmsv.yy",},},
     {"id":{"name":"spr_shutdown","path":"sprites/spr_shutdown/spr_shutdown.yy",},},
+    {"id":{"name":"spr_sigmaos_icon","path":"sprites/spr_sigmaos_icon/spr_sigmaos_icon.yy",},},
     {"id":{"name":"spr_start","path":"sprites/spr_start/spr_start.yy",},},
     {"id":{"name":"spr_t","path":"sprites/spr_t/spr_t.yy",},},
     {"id":{"name":"spr_twitch_chat","path":"sprites/spr_twitch_chat/spr_twitch_chat.yy",},},
@@ -323,6 +326,7 @@
     {"id":{"name":"spr_update","path":"sprites/spr_update/spr_update.yy",},},
     {"id":{"name":"spr_v","path":"sprites/spr_v/spr_v.yy",},},
     {"id":{"name":"spr_w","path":"sprites/spr_w/spr_w.yy",},},
+    {"id":{"name":"spr_wallpapersigma","path":"sprites/spr_wallpapersigma/spr_wallpapersigma.yy",},},
     {"id":{"name":"spr_win_OK","path":"sprites/spr_win_OK/spr_win_OK.yy",},},
     {"id":{"name":"spr_win","path":"sprites/spr_win/spr_win.yy",},},
     {"id":{"name":"spr_x","path":"sprites/spr_x/spr_x.yy",},},
@@ -366,6 +370,7 @@
     {"roomId":{"name":"rm_desert","path":"rooms/rm_desert/rm_desert.yy",},},
     {"roomId":{"name":"rm_cmdboot","path":"rooms/rm_cmdboot/rm_cmdboot.yy",},},
     {"roomId":{"name":"rm_skibidigyatrizz_sigmaOS","path":"rooms/rm_skibidigyatrizz_sigmaOS/rm_skibidigyatrizz_sigmaOS.yy",},},
+    {"roomId":{"name":"rm_skibidigyatrizz_sigmaOS_desktop","path":"rooms/rm_skibidigyatrizz_sigmaOS_desktop/rm_skibidigyatrizz_sigmaOS_desktop.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

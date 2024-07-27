@@ -1,2 +1,2 @@
 draw_set_font(fnt50)
-draw_text(x, y, "$~:#/> " + keyboard_string + "ъ")
+draw_text(x, y, "$~:#/> " + keyboard_string + "|")
