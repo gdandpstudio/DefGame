@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"healspwn",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"healspwn",
+  "parent":{
+    "name":"Скрипты",
+    "path":"folders/Скрипты.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

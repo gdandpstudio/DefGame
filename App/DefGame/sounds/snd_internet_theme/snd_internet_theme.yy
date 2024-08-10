@@ -6,10 +6,10 @@
     "path":"audiogroups/audiogroup_default",
   },
   "bitDepth":1,
-  "bitRate":512,
+  "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":127.586555,
+  "duration":70.95673,
   "name":"snd_internet_theme",
   "parent":{
     "name":"Звуки",

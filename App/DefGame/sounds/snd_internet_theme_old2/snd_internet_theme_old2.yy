@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_internet_theme_old2",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":512,
+  "compression":0,
+  "conversionMode":0,
+  "duration":127.586555,
+  "name":"snd_internet_theme_old2",
+  "parent":{
+    "name":"Звуки",
+    "path":"folders/Звуки.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_internet_theme_old2.ogg",
+  "type":0,
+  "volume":1.0,
+}

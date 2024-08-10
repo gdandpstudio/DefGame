@@ -5,6 +5,7 @@ global.scorewn = 0;
 global.lvname = ""
 global.lvauth = ""
 
+
 global.diffics = ds_map_create()
 ds_map_add(global.diffics, 0, make_color_rgb(109, 208, 247))
 ds_map_add(global.diffics, 1, make_color_rgb(0, 255, 255))

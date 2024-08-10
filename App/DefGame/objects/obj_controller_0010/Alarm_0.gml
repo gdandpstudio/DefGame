@@ -1,1 +1,0 @@
-layer_destroy("ltrslay")

@@ -1,4 +1,4 @@
-if(b == 0)
+ if(b == 0)
 {
 	image_index = 2
 	d = true
@@ -14,7 +14,6 @@ else
 		image_index = 1
 		d = false
 		b += 1
-	
 		alarm_set(1, 60);
 	}
 
@@ -26,7 +25,11 @@ else
 			if(global.plrimm == false){
 				global.plrhp -= 50 
 			}
-			global.scorewn += 100
+			ini_open("bios.ini")
+			e = ini_read_real("bios", "undead", 0)
+			ini_close()
+			if(e == 0){global.scorewn += 100}
+			else{global.scorew += 100}
 			effect_create_above(1, x, y, 2, $FFFFFF00 & $ffffff);
 		}
 	}

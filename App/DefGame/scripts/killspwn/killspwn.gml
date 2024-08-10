@@ -4,5 +4,5 @@
 ///@param y
 function killspwn() 
 {
-	global.ltr = instance_create_layer(argument0, argument1, "ltrslay", obj_kill)
+	instance_create_layer(argument0 + camera_get_view_x(view_camera[0]), argument1 + camera_get_view_y(view_camera[0]), "ltrslay", obj_kill)
 }

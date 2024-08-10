@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"tpspwnrand",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"tpspwnrand",
+  "parent":{
+    "name":"Скрипты",
+    "path":"folders/Скрипты.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

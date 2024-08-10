@@ -68,3 +68,40 @@ if(global.plrlives <= 0)
 	/// @DnDParent : 0C946923
 	room_restart();
 }
+
+/// @DnDAction : YoYo Games.Files.Open_Ini
+/// @DnDVersion : 1
+/// @DnDHash : 50839E37
+/// @DnDArgument : "filename" ""bios.ini""
+ini_open("bios.ini");
+
+/// @DnDAction : YoYo Games.Files.Ini_Read
+/// @DnDVersion : 1
+/// @DnDHash : 060402D0
+/// @DnDArgument : "var" "udd"
+/// @DnDArgument : "type" "1"
+/// @DnDArgument : "section" ""bios""
+/// @DnDArgument : "key" ""undead""
+/// @DnDArgument : "default" "0"
+udd = ini_read_real("bios", "undead", 0);
+
+/// @DnDAction : YoYo Games.Files.Close_Ini
+/// @DnDVersion : 1
+/// @DnDHash : 3F59C90B
+ini_close();
+
+/// @DnDAction : YoYo Games.Common.If_Variable
+/// @DnDVersion : 1
+/// @DnDHash : 055BC0CC
+/// @DnDArgument : "var" "udd"
+/// @DnDArgument : "value" "1"
+if(udd == 1)
+{
+	/// @DnDAction : YoYo Games.Common.Variable
+	/// @DnDVersion : 1
+	/// @DnDHash : 17DC89E9
+	/// @DnDParent : 055BC0CC
+	/// @DnDArgument : "expr" "100"
+	/// @DnDArgument : "var" "global.plrhp"
+	global.plrhp = 100;
+}
