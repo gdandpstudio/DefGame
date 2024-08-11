@@ -5,3 +5,4 @@ c = ds_map_find_value(global.ltrs2, a)
 b = 0
 e = 0
 alarm_set(1, 120)
+effect_create_above(1, x, y, 2, c_aqua & $ffffff);

@@ -38,6 +38,16 @@ else if(keyboard_string == "boot os.se1dsoft.kit"){
 else if(keyboard_string == "boot os.skibidigyatrizz.sigma" && current_month == 4 && current_day == 1){
 	room_goto(rm_skibidigyatrizz_sigmaOS)
 }
+else if(keyboard_string == "autorun setcommand ''load uefiosselect.efi''"){
+	ini_open("bios.ini")
+	ini_write_real("bios", "uefiboot", 1)
+	ini_close()
+	alarm_set(1, 60)
+	keyboard_string = "To apply changes computer must restart [3]"
+}
+else if(keyboard_string = "load uefiosselect.efi"){
+	alarm_set(0, 30)
+}
 else{
-	show_message("Unknown package")
+	show_message("Unknown package or command")
 }

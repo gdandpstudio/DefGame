@@ -7,6 +7,6 @@
 /// @DnDArgument : "y2" "y + 32"
 /// @DnDArgument : "value" "prgs"
 /// @DnDArgument : "backcol" "$FF000000"
-/// @DnDArgument : "mincol" "$FFFF00FF"
-/// @DnDArgument : "maxcol" "$FFFFFF00"
-draw_healthbar(x, y, x + 512, y + 32, prgs, $FF000000 & $FFFFFF, $FFFF00FF & $FFFFFF, $FFFFFF00 & $FFFFFF, 0, (($FF000000>>24) != 0), (($FFFFFFFF>>24) != 0));
+/// @DnDArgument : "mincol" "$FFFFFFFF"
+/// @DnDArgument : "maxcol" "$FFFFFFFF"
+draw_healthbar(x, y, x + 512, y + 32, prgs, $FF000000 & $FFFFFF, $FFFFFFFF & $FFFFFF, $FFFFFFFF & $FFFFFF, 0, (($FF000000>>24) != 0), (($FFFFFFFF>>24) != 0));

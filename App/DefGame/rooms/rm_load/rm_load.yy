@@ -11,6 +11,7 @@
     {"name":"inst_75350424","path":"rooms/rm_load/rm_load.yy",},
     {"name":"inst_1299B170","path":"rooms/rm_load/rm_load.yy",},
     {"name":"inst_37387623","path":"rooms/rm_load/rm_load.yy",},
+    {"name":"inst_1A6C470C","path":"rooms/rm_load/rm_load.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -21,6 +22,7 @@
     {"$GMRInstanceLayer":"","%Name":"Instances_1","depth":100,"effectEnabled":true,"effectType":"_filter_underwater","gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v1","%Name":"inst_6A48A18D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6A48A18D","objectId":{"name":"obj_circle","path":"objects/obj_circle/obj_circle.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":2.0,"scaleY":2.0,"x":960.0,"y":832.0,},
         {"$GMRInstance":"v1","%Name":"inst_75350424","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_75350424","objectId":{"name":"obj_controller_0007","path":"objects/obj_controller_0007/obj_controller_0007.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":32.0,"y":320.0,},
+        {"$GMRInstance":"v1","%Name":"inst_1A6C470C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1A6C470C","objectId":{"name":"obj_controller_0001","path":"objects/obj_controller_0001/obj_controller_0001.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":512.0,"y":864.0,},
       ],"layers":[],"name":"Instances_1","properties":[
         {"name":"g_Distort1Speed","type":0,"value":"0.01",},
         {"name":"g_Distort2Speed","type":0,"value":"0.025",},
