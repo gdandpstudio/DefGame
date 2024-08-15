@@ -1,1 +1,1 @@
-ltrspwnrandrandpos()
+killspwnrand()

@@ -1,1 +1,1 @@
-room_goto(rm_lvl_2)
+TrStrt(rm_lvl_2, seq_Fadein, seq_Fadeout)

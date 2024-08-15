@@ -1,3 +1,3 @@
-if(a == 1){
-	room_goto(rm_goint)
+if(a > 1){
+	TrStrt(rm_goint, seq_Fadein, seq_Fadeout)
 }

@@ -23,11 +23,11 @@ else if(room == rm_lvl_2){
 	n = "Sky High pt. II"
 	global.lvlsnd = snd_lvl_2
 }
-//else if(room == rm_lvl_2_1){
-//	a = "[NCS]Electronomia"
-//	n = "Sky High pt. II"
-//	global.lvlsnd = snd_lvl_2
-//}
+else if(room == rm_lvl_2_1){
+	a = "[NCS]Electronomia"
+	n = "Sky High pt. II"
+	global.lvlsnd = snd_lvl_2
+}
 else if(room == rm_lvl_secret){
 	a = "Dj.Chasy X Dj.Holodilnik"
 	n = "Grandma village hit, collab of the year"

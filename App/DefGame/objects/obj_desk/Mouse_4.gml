@@ -1,2 +1,2 @@
 audio_stop_all()
-room_goto(rm_godesk)
+TrStrt(rm_godesk, seq_Fadein, seq_Fadeout)

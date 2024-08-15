@@ -1,3 +1,3 @@
 /// @description Вставьте описание здесь
 // Вы можете записать свой код в этом редакторе
-room_goto(rm_desktop)
+TrStrt(rm_desktop, seq_Fadein, seq_Fadeout)
