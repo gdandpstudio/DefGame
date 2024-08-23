@@ -1,0 +1,25 @@
+{
+  "$GMParticleSystem":"",
+  "%Name":"Ps_Northern_Lights",
+  "backdropHeight":768,
+  "backdropImageOpacity":0.5,
+  "backdropImagePath":"",
+  "backdropWidth":1366,
+  "backdropXOffset":0.0,
+  "backdropYOffset":0.0,
+  "drawOrder":0,
+  "emitters":[
+    {"$GMPSEmitter":"","%Name":"Northern_Lights","additiveBlend":true,"directionIncrease":0.0,"directionMax":321.0,"directionMin":291.0,"directionWiggle":0.0,"distribution":0,"editorColour":16777215,"editorDrawShape":true,"emitCount":1,"emitDelayMax":0.0,"emitDelayMin":0.0,"emitDelayUnits":0,"emitIntervalMax":0.0,"emitIntervalMin":0.0,"emitIntervalUnits":0,"enabled":true,"endColour":16730662,"GMPresetName":null,"gravityDirection":40.0,"gravityForce":0.02,"headPosition":0.0,"lifetimeMax":110.0,"lifetimeMin":80.0,"linkedEmitter":null,"locked":false,"midColour":429195008,"mode":0,"name":"Northern_Lights","orientationIncrease":0.0,"orientationMax":7.0,"orientationMin":8.0,"orientationRelative":false,"orientationWiggle":0.0,"regionH":9.587952,"regionW":274.40546,"regionX":0.0,"regionY":0.0,"resourceType":"GMPSEmitter","resourceVersion":"2.0","scaleX":2.0,"scaleY":8.0,"shape":0,"sizeIncrease":-0.0005,"sizeMax":0.7,"sizeMin":0.5,"sizeWiggle":0.03,"spawnOnDeathCount":1,"spawnOnDeathGMPreset":null,"spawnOnDeathId":null,"spawnOnUpdateCount":1,"spawnOnUpdateGMPreset":null,"spawnOnUpdateId":null,"speedIncrease":0.0,"speedMax":0.3,"speedMin":0.3,"speedWiggle":0.0,"spriteAnimate":false,"spriteId":null,"spriteRandom":false,"spriteStretch":true,"startColour":1703881,"texture":7,},
+  ],
+  "name":"Ps_Northern_Lights",
+  "parent":{
+    "name":"Weather",
+    "path":"folders/Particle Systems/Weather.yy",
+  },
+  "resourceType":"GMParticleSystem",
+  "resourceVersion":"2.0",
+  "showBackdrop":true,
+  "showBackdropImage":false,
+  "xorigin":0,
+  "yorigin":0,
+}

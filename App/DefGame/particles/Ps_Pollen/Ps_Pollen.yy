@@ -1,0 +1,25 @@
+{
+  "$GMParticleSystem":"",
+  "%Name":"Ps_Pollen",
+  "backdropHeight":768,
+  "backdropImageOpacity":0.5,
+  "backdropImagePath":"",
+  "backdropWidth":1366,
+  "backdropXOffset":0.0,
+  "backdropYOffset":0.0,
+  "drawOrder":0,
+  "emitters":[
+    {"$GMPSEmitter":"","%Name":"Pollen","additiveBlend":true,"directionIncrease":0.0,"directionMax":99.0,"directionMin":89.0,"directionWiggle":1.0,"distribution":0,"editorColour":16733911,"editorDrawShape":true,"emitCount":-4,"emitDelayMax":0.0,"emitDelayMin":0.0,"emitDelayUnits":0,"emitIntervalMax":0.0,"emitIntervalMin":0.0,"emitIntervalUnits":0,"enabled":true,"endColour":24244918,"GMPresetName":null,"gravityDirection":104.0,"gravityForce":0.0,"headPosition":0.0,"lifetimeMax":300.0,"lifetimeMin":200.0,"linkedEmitter":null,"locked":false,"midColour":3770217350,"mode":0,"name":"Pollen","orientationIncrease":0.0,"orientationMax":0.0,"orientationMin":35.0,"orientationRelative":false,"orientationWiggle":0.0,"regionH":294.3399,"regionW":1368.4988,"regionX":0.0,"regionY":-8.0,"resourceType":"GMPSEmitter","resourceVersion":"2.0","scaleX":1.0,"scaleY":1.0,"shape":0,"sizeIncrease":0.0,"sizeMax":0.3,"sizeMin":0.1,"sizeWiggle":0.0,"spawnOnDeathCount":-1,"spawnOnDeathGMPreset":"GM_Embers","spawnOnUpdateCount":1,"spawnOnUpdateGMPreset":null,"spawnOnUpdateId":null,"speedIncrease":0.0,"speedMax":0.25,"speedMin":0.1,"speedWiggle":0.05,"spriteAnimate":false,"spriteId":null,"spriteRandom":false,"spriteStretch":true,"startColour":317664174,"texture":8,},
+  ],
+  "name":"Ps_Pollen",
+  "parent":{
+    "name":"Weather",
+    "path":"folders/Particle Systems/Weather.yy",
+  },
+  "resourceType":"GMParticleSystem",
+  "resourceVersion":"2.0",
+  "showBackdrop":true,
+  "showBackdropImage":false,
+  "xorigin":0,
+  "yorigin":0,
+}

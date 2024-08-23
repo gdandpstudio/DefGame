@@ -1,0 +1,27 @@
+{
+  "$GMParticleSystem":"",
+  "%Name":"Ps_Explosoin_Bubbles_Outward",
+  "backdropHeight":768,
+  "backdropImageOpacity":0.5,
+  "backdropImagePath":"",
+  "backdropWidth":1366,
+  "backdropXOffset":0.0,
+  "backdropYOffset":0.0,
+  "drawOrder":0,
+  "emitters":[
+    {"$GMPSEmitter":"","%Name":"bubbles_Right","additiveBlend":false,"directionIncrease":0.0,"directionMax":360.0,"directionMin":0.0,"directionWiggle":15.0,"distribution":0,"editorColour":16777215,"editorDrawShape":true,"emitCount":31,"emitDelayMax":0.0,"emitDelayMin":0.0,"emitDelayUnits":0,"emitIntervalMax":0.0,"emitIntervalMin":0.0,"emitIntervalUnits":0,"enabled":true,"endColour":2640916,"GMPresetName":null,"gravityDirection":0.0,"gravityForce":0.0,"headPosition":0.0,"lifetimeMax":40.0,"lifetimeMin":10.0,"linkedEmitter":null,"locked":false,"midColour":3221224104,"mode":1,"name":"bubbles_Right","orientationIncrease":0.0,"orientationMax":0.0,"orientationMin":0.0,"orientationRelative":false,"orientationWiggle":0.0,"regionH":2.302002,"regionW":1.0,"regionX":1.0,"regionY":0.0,"resourceType":"GMPSEmitter","resourceVersion":"2.0","scaleX":1.0,"scaleY":1.0,"shape":3,"sizeIncrease":0.005,"sizeMax":0.3,"sizeMin":0.1,"sizeWiggle":0.02,"spawnOnDeathCount":0,"spawnOnDeathGMPreset":"GM_Sparks","spawnOnUpdateCount":1,"spawnOnUpdateGMPreset":null,"spawnOnUpdateId":null,"speedIncrease":0.0,"speedMax":1.7,"speedMin":0.7,"speedWiggle":0.0,"spriteAnimate":false,"spriteId":null,"spriteRandom":false,"spriteStretch":false,"startColour":8650503,"texture":6,},
+    {"$GMPSEmitter":"","%Name":"top_Embers","additiveBlend":true,"directionIncrease":0.0,"directionMax":360.0,"directionMin":0.0,"directionWiggle":9.0,"distribution":1,"editorColour":16777215,"editorDrawShape":true,"emitCount":27,"emitDelayMax":0.0,"emitDelayMin":0.0,"emitDelayUnits":0,"emitIntervalMax":0.0,"emitIntervalMin":0.0,"emitIntervalUnits":0,"enabled":true,"endColour":654279877,"GMPresetName":null,"gravityDirection":270.0,"gravityForce":0.0,"headPosition":0.0,"lifetimeMax":30.0,"lifetimeMin":10.0,"linkedEmitter":null,"locked":false,"midColour":2063571332,"mode":1,"name":"top_Embers","orientationIncrease":0.0,"orientationMax":0.0,"orientationMin":0.0,"orientationRelative":false,"orientationWiggle":0.0,"regionH":4.0457153,"regionW":7.765625,"regionX":1.0,"regionY":1.0,"resourceType":"GMPSEmitter","resourceVersion":"2.0","scaleX":1.0,"scaleY":1.0,"shape":1,"sizeIncrease":0.0,"sizeMax":2.0,"sizeMin":1.0,"sizeWiggle":1.0,"spawnOnDeathCount":1,"spawnOnDeathGMPreset":null,"spawnOnDeathId":null,"spawnOnUpdateCount":1,"spawnOnUpdateGMPreset":null,"spawnOnUpdateId":null,"speedIncrease":0.0,"speedMax":2.5,"speedMin":0.5,"speedWiggle":0.0,"spriteAnimate":false,"spriteId":null,"spriteRandom":false,"spriteStretch":true,"startColour":2884370341,"texture":0,},
+    {"$GMPSEmitter":"","%Name":"Bubbles_Soft_Base","additiveBlend":false,"directionIncrease":0.0,"directionMax":270.0,"directionMin":270.0,"directionWiggle":5.0,"distribution":0,"editorColour":16777215,"editorDrawShape":true,"emitCount":7,"emitDelayMax":0.0,"emitDelayMin":0.0,"emitDelayUnits":0,"emitIntervalMax":0.0,"emitIntervalMin":0.0,"emitIntervalUnits":0,"enabled":true,"endColour":2640916,"GMPresetName":null,"gravityDirection":0.0,"gravityForce":0.0,"headPosition":0.0,"lifetimeMax":40.0,"lifetimeMin":30.0,"linkedEmitter":null,"locked":false,"midColour":3221219394,"mode":1,"name":"Bubbles_Soft_Base","orientationIncrease":0.0,"orientationMax":270.0,"orientationMin":270.0,"orientationRelative":false,"orientationWiggle":0.0,"regionH":1.0,"regionW":3.4499817,"regionX":1.0,"regionY":0.0,"resourceType":"GMPSEmitter","resourceVersion":"2.0","scaleX":3.0,"scaleY":3.0,"shape":3,"sizeIncrease":0.005,"sizeMax":0.4,"sizeMin":0.1,"sizeWiggle":0.02,"spawnOnDeathCount":0,"spawnOnDeathGMPreset":"GM_Sparks","spawnOnUpdateCount":1,"spawnOnUpdateGMPreset":null,"spawnOnUpdateId":null,"speedIncrease":0.0,"speedMax":0.7,"speedMin":0.2,"speedWiggle":0.0,"spriteAnimate":false,"spriteId":null,"spriteRandom":false,"spriteStretch":false,"startColour":8650503,"texture":11,},
+  ],
+  "name":"Ps_Explosoin_Bubbles_Outward",
+  "parent":{
+    "name":"Explosions",
+    "path":"folders/Particle Systems/Explosions.yy",
+  },
+  "resourceType":"GMParticleSystem",
+  "resourceVersion":"2.0",
+  "showBackdrop":false,
+  "showBackdropImage":false,
+  "xorigin":0,
+  "yorigin":0,
+}

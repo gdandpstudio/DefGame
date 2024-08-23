@@ -30,7 +30,7 @@ else
 			ini_close()
 			if(e == 0){global.scorewn += 100}
 			else{global.scorew += 100}
-			effect_create_above(1, x, y, 2, $FFFFFF00 & $ffffff);
+			part_particles_burst(f, x, y, Ps_Glitch)
 		}
 	}
 }

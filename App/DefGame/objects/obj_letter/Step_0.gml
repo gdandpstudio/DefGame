@@ -9,7 +9,7 @@ if(d == true)
 		{
 			global.scorew += real(100);
 			global.plrhp += 10
-			effect_create_above(1, x, y, 2, $FF00FF00 & $ffffff);
+			part_particles_burst(f, x, y, Ps_Glitch)
 			instance_destroy();
 		}
 	}

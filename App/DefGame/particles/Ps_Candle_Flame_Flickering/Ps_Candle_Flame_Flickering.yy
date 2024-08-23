@@ -1,0 +1,27 @@
+{
+  "$GMParticleSystem":"",
+  "%Name":"Ps_Candle_Flame_Flickering",
+  "backdropHeight":768,
+  "backdropImageOpacity":0.5,
+  "backdropImagePath":"",
+  "backdropWidth":1366,
+  "backdropXOffset":0.0,
+  "backdropYOffset":0.0,
+  "drawOrder":0,
+  "emitters":[
+    {"$GMPSEmitter":"","%Name":"Candle_flame_Animation","additiveBlend":true,"directionIncrease":0.0,"directionMax":100.0,"directionMin":80.0,"directionWiggle":0.0,"distribution":0,"editorColour":16777215,"editorDrawShape":true,"emitCount":-12,"emitDelayMax":0.0,"emitDelayMin":0.0,"emitDelayUnits":1,"emitIntervalMax":0.0,"emitIntervalMin":0.0,"emitIntervalUnits":0,"enabled":true,"endColour":822083065,"GMPresetName":null,"gravityDirection":270.0,"gravityForce":0.0,"headPosition":0.0,"lifetimeMax":45.0,"lifetimeMin":45.0,"linkedEmitter":null,"locked":false,"midColour":4294901746,"mode":0,"name":"Candle_flame_Animation","orientationIncrease":0.0,"orientationMax":0.0,"orientationMin":0.0,"orientationRelative":false,"orientationWiggle":0.0,"regionH":5.2223206,"regionW":7.9678345,"regionX":-1.0,"regionY":0.0,"resourceType":"GMPSEmitter","resourceVersion":"2.0","scaleX":1.0,"scaleY":1.0,"shape":0,"sizeIncrease":0.0,"sizeMax":1.5,"sizeMin":1.0,"sizeWiggle":0.0,"spawnOnDeathCount":1,"spawnOnDeathGMPreset":null,"spawnOnDeathId":null,"spawnOnUpdateCount":1,"spawnOnUpdateGMPreset":null,"spawnOnUpdateId":null,"speedIncrease":0.0,"speedMax":0.0,"speedMin":0.0,"speedWiggle":0.0,"spriteAnimate":true,"spriteId":{"name":"Spr_Candle_Flickering","path":"sprites/Spr_Candle_Flickering/Spr_Candle_Flickering.yy",},"spriteRandom":false,"spriteStretch":true,"startColour":4294901756,"texture":-1,},
+    {"$GMPSEmitter":"","%Name":"Glow_BG_2","additiveBlend":true,"directionIncrease":0.0,"directionMax":90.0,"directionMin":90.0,"directionWiggle":0.0,"distribution":0,"editorColour":16777215,"editorDrawShape":true,"emitCount":-7,"emitDelayMax":0.0,"emitDelayMin":0.0,"emitDelayUnits":0,"emitIntervalMax":0.0,"emitIntervalMin":0.0,"emitIntervalUnits":0,"enabled":true,"endColour":21708,"GMPresetName":null,"gravityDirection":270.0,"gravityForce":0.0,"headPosition":0.0,"lifetimeMax":120.0,"lifetimeMin":90.0,"linkedEmitter":null,"locked":false,"midColour":1157659647,"mode":0,"name":"Glow_BG_2","orientationIncrease":1.8,"orientationMax":180.0,"orientationMin":0.0,"orientationRelative":false,"orientationWiggle":0.0,"regionH":69.98892,"regionW":9.126625,"regionX":2.0,"regionY":-23.0,"resourceType":"GMPSEmitter","resourceVersion":"2.0","scaleX":0.9,"scaleY":0.9,"shape":1,"sizeIncrease":0.0,"sizeMax":2.0,"sizeMin":1.0,"sizeWiggle":0.0,"spawnOnDeathCount":0,"spawnOnDeathGMPreset":null,"spawnOnDeathId":{"name":"Sparkle","path":"particlelib/Sparkle/Sparkle.yy",},"spawnOnUpdateCount":1,"spawnOnUpdateGMPreset":null,"spawnOnUpdateId":null,"speedIncrease":0.0,"speedMax":0.1,"speedMin":0.05,"speedWiggle":0.0,"spriteAnimate":false,"spriteId":null,"spriteRandom":false,"spriteStretch":true,"startColour":56831,"texture":7,},
+    {"$GMPSEmitter":"","%Name":"Glow_Bg","additiveBlend":true,"directionIncrease":0.0,"directionMax":90.0,"directionMin":90.0,"directionWiggle":0.0,"distribution":0,"editorColour":16777215,"editorDrawShape":true,"emitCount":-7,"emitDelayMax":0.0,"emitDelayMin":0.0,"emitDelayUnits":0,"emitIntervalMax":0.0,"emitIntervalMin":0.0,"emitIntervalUnits":0,"enabled":true,"endColour":10622719,"GMPresetName":null,"gravityDirection":270.0,"gravityForce":0.0,"headPosition":0.0,"lifetimeMax":128.0,"lifetimeMin":133.0,"linkedEmitter":null,"locked":false,"midColour":94508799,"mode":0,"name":"Glow_Bg","orientationIncrease":1.8,"orientationMax":180.0,"orientationMin":0.0,"orientationRelative":false,"orientationWiggle":0.0,"regionH":130.70322,"regionW":9.126625,"regionX":4.0,"regionY":-9.0,"resourceType":"GMPSEmitter","resourceVersion":"2.0","scaleX":0.9,"scaleY":0.9,"shape":1,"sizeIncrease":0.0,"sizeMax":4.14,"sizeMin":3.05,"sizeWiggle":0.0,"spawnOnDeathCount":0,"spawnOnDeathGMPreset":null,"spawnOnDeathId":{"name":"Sparkle","path":"particlelib/Sparkle/Sparkle.yy",},"spawnOnUpdateCount":1,"spawnOnUpdateGMPreset":null,"spawnOnUpdateId":null,"speedIncrease":0.0,"speedMax":0.1,"speedMin":0.05,"speedWiggle":0.0,"spriteAnimate":false,"spriteId":null,"spriteRandom":false,"spriteStretch":true,"startColour":10622719,"texture":7,},
+  ],
+  "name":"Ps_Candle_Flame_Flickering",
+  "parent":{
+    "name":"Fire",
+    "path":"folders/Particle Systems/Fire.yy",
+  },
+  "resourceType":"GMParticleSystem",
+  "resourceVersion":"2.0",
+  "showBackdrop":true,
+  "showBackdropImage":false,
+  "xorigin":0,
+  "yorigin":0,
+}

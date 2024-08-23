@@ -1,0 +1,26 @@
+{
+  "$GMParticleSystem":"",
+  "%Name":"Ps_Mist",
+  "backdropHeight":768,
+  "backdropImageOpacity":0.5,
+  "backdropImagePath":"",
+  "backdropWidth":1366,
+  "backdropXOffset":0.0,
+  "backdropYOffset":0.0,
+  "drawOrder":0,
+  "emitters":[
+    {"$GMPSEmitter":"","%Name":"Mist_2","additiveBlend":false,"directionIncrease":0.0,"directionMax":0.0,"directionMin":0.0,"directionWiggle":0.0,"distribution":0,"editorColour":16777215,"editorDrawShape":true,"emitCount":-34,"emitDelayMax":0.0,"emitDelayMin":0.0,"emitDelayUnits":0,"emitIntervalMax":0.0,"emitIntervalMin":0.0,"emitIntervalUnits":0,"enabled":true,"endColour":16775161,"GMPresetName":null,"gravityDirection":290.0,"gravityForce":0.0,"headPosition":0.0,"lifetimeMax":600.0,"lifetimeMin":400.0,"linkedEmitter":null,"locked":false,"midColour":149607616,"mode":0,"name":"Mist_2","orientationIncrease":-0.75,"orientationMax":360.0,"orientationMin":0.0,"orientationRelative":false,"orientationWiggle":0.0,"regionH":64.0,"regionW":64.0,"regionX":2.0,"regionY":0.0,"resourceType":"GMPSEmitter","resourceVersion":"2.0","scaleX":1.0,"scaleY":1.0,"shape":0,"sizeIncrease":0.0,"sizeMax":4.0,"sizeMin":3.5,"sizeWiggle":0.0,"spawnOnDeathCount":1,"spawnOnDeathGMPreset":null,"spawnOnDeathId":null,"spawnOnUpdateCount":1,"spawnOnUpdateGMPreset":null,"spawnOnUpdateId":null,"speedIncrease":0.0,"speedMax":0.9,"speedMin":0.6,"speedWiggle":0.0,"spriteAnimate":false,"spriteId":null,"spriteRandom":false,"spriteStretch":true,"startColour":4802374,"texture":10,},
+    {"$GMPSEmitter":"","%Name":"Mist","additiveBlend":false,"directionIncrease":0.0,"directionMax":10.0,"directionMin":0.0,"directionWiggle":0.0,"distribution":0,"editorColour":16777215,"editorDrawShape":true,"emitCount":-34,"emitDelayMax":0.0,"emitDelayMin":0.0,"emitDelayUnits":0,"emitIntervalMax":0.0,"emitIntervalMin":0.0,"emitIntervalUnits":0,"enabled":true,"endColour":16775161,"GMPresetName":null,"gravityDirection":260.0,"gravityForce":0.0005,"headPosition":0.0,"lifetimeMax":600.0,"lifetimeMin":400.0,"linkedEmitter":null,"locked":false,"midColour":367711424,"mode":0,"name":"Mist","orientationIncrease":0.75,"orientationMax":360.0,"orientationMin":0.0,"orientationRelative":false,"orientationWiggle":0.0,"regionH":64.0,"regionW":64.0,"regionX":1.0,"regionY":0.0,"resourceType":"GMPSEmitter","resourceVersion":"2.0","scaleX":1.0,"scaleY":1.0,"shape":0,"sizeIncrease":0.0,"sizeMax":1.0,"sizeMin":0.5,"sizeWiggle":0.0,"spawnOnDeathCount":1,"spawnOnDeathGMPreset":null,"spawnOnDeathId":null,"spawnOnUpdateCount":1,"spawnOnUpdateGMPreset":null,"spawnOnUpdateId":null,"speedIncrease":0.0,"speedMax":0.9,"speedMin":0.6,"speedWiggle":0.0,"spriteAnimate":false,"spriteId":{"name":"Spr_Fire","path":"sprites/Spr_Fire/Spr_Fire.yy",},"spriteRandom":false,"spriteStretch":true,"startColour":4802374,"texture":-1,},
+  ],
+  "name":"Ps_Mist",
+  "parent":{
+    "name":"Weather",
+    "path":"folders/Particle Systems/Weather.yy",
+  },
+  "resourceType":"GMParticleSystem",
+  "resourceVersion":"2.0",
+  "showBackdrop":true,
+  "showBackdropImage":false,
+  "xorigin":0,
+  "yorigin":0,
+}
