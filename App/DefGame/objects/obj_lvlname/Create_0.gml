@@ -33,6 +33,11 @@ else if(room == rm_lvl_secret){
 	n = "Grandma village hit, collab of the year"
 	global.lvlsnd = snd_lvl_secret
 }
+else if(room == rm_lvl_3){
+	a = "[NCS]ROY KNOX (not samsung knox)"
+	n = "Memory Box"
+	global.lvlsnd = snd_lvl_3
+}
 
 
 global.lvname = n
