@@ -443,6 +443,7 @@
     {"id":{"name":"Spr_comet_top","path":"sprites/Spr_comet_top/Spr_comet_top.yy",},},
     {"id":{"name":"spr_comp","path":"sprites/spr_comp/spr_comp.yy",},},
     {"id":{"name":"spr_cos_icon_x256","path":"sprites/spr_cos_icon_x256/spr_cos_icon_x256.yy",},},
+    {"id":{"name":"spr_cursor","path":"sprites/spr_cursor/spr_cursor.yy",},},
     {"id":{"name":"spr_d","path":"sprites/spr_d/spr_d.yy",},},
     {"id":{"name":"Spr_Dagger","path":"sprites/Spr_Dagger/Spr_Dagger.yy",},},
     {"id":{"name":"spr_ded","path":"sprites/spr_ded/spr_ded.yy",},},

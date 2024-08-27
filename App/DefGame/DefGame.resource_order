@@ -370,6 +370,7 @@
     {"name":"Spr_comet_top","order":9,"path":"sprites/Spr_comet_top/Spr_comet_top.yy",},
     {"name":"spr_comp","order":7,"path":"sprites/spr_comp/spr_comp.yy",},
     {"name":"spr_cos_icon_x256","order":61,"path":"sprites/spr_cos_icon_x256/spr_cos_icon_x256.yy",},
+    {"name":"spr_cursor","order":77,"path":"sprites/spr_cursor/spr_cursor.yy",},
     {"name":"spr_d","order":3,"path":"sprites/spr_d/spr_d.yy",},
     {"name":"Spr_Dagger","order":10,"path":"sprites/Spr_Dagger/Spr_Dagger.yy",},
     {"name":"spr_ded","order":33,"path":"sprites/spr_ded/spr_ded.yy",},
