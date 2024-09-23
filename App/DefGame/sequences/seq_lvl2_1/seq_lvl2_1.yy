@@ -25,7 +25,7 @@
           "0":{"$MomentsEventKeyframe":"","Events":[
               "TrFin",
             ],"resourceType":"MomentsEventKeyframe","resourceVersion":"2.0",},
-        },"Disabled":false,"id":"3f1db4ca-f662-4256-aa42-7dc1fafaba71","IsCreationKey":false,"Key":495.9999,"Length":1.0,"resourceType":"Keyframe<MomentsEventKeyframe>","resourceVersion":"2.0","Stretch":false,},
+        },"Disabled":false,"id":"d541ef45-b17d-4fdd-a589-584181eb0c81","IsCreationKey":false,"Key":494.0,"Length":1.0,"resourceType":"Keyframe<MomentsEventKeyframe>","resourceVersion":"2.0","Stretch":false,},
     ],
     "resourceType":"KeyframeStore<MomentsEventKeyframe>",
     "resourceVersion":"2.0",

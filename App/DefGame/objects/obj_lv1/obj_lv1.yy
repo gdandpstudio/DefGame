@@ -12,8 +12,8 @@
   "name":"obj_lv1",
   "overriddenProperties":[],
   "parent":{
-    "name":"1",
-    "path":"folders/Объекты/lvls/1.yy",
+    "name":"lvls",
+    "path":"folders/Объекты/lvls.yy",
   },
   "parentObjectId":null,
   "persistent":false,

@@ -38,6 +38,11 @@ else if(room == rm_lvl_3){
 	n = "Memory Box"
 	global.lvlsnd = snd_lvl_3
 }
+else if(room == rm_lvl_3_1){
+	a = "[NCS]ROY KNOX (not samsung knox)"
+	n = "Memory Box"
+	global.lvlsnd = snd_lvl_3
+}
 
 
 global.lvname = n

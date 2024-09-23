@@ -11,12 +11,14 @@
     {"name":"inst_3D288372","path":"rooms/rm_lvl_1/rm_lvl_1.yy",},
     {"name":"inst_6811F099","path":"rooms/rm_lvl_1/rm_lvl_1.yy",},
     {"name":"inst_7EFDB821","path":"rooms/rm_lvl_1/rm_lvl_1.yy",},
+    {"name":"inst_423D13AD","path":"rooms/rm_lvl_1/rm_lvl_1.yy",},
   ],
   "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"ltrslay","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v1","%Name":"inst_4D6A3A30","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4D6A3A30","objectId":{"name":"obj_win","path":"objects/obj_win/obj_win.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":11.0,"scaleY":5.0,"x":576.0,"y":384.0,},
         {"$GMRInstance":"v1","%Name":"inst_3D288372","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_3D288372","objectId":{"name":"obj_win_OK","path":"objects/obj_win_OK/obj_win_OK.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1216.0,"y":640.0,},
+        {"$GMRInstance":"v1","%Name":"inst_423D13AD","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_423D13AD","objectId":{"name":"obj_controller_0014","path":"objects/obj_controller_0014/obj_controller_0014.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":256.0,"y":352.0,},
       ],"layers":[],"name":"ltrslay","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"lvldata","depth":100,"effectEnabled":true,"effectType":"_filter_outline","gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v1","%Name":"inst_6811F099","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6811F099","objectId":{"name":"obj_lvlname","path":"objects/obj_lvlname/obj_lvlname.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":64.0,"y":64.0,},

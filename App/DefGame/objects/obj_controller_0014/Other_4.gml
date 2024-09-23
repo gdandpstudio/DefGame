@@ -1,0 +1,1 @@
+global.room_lastw = room

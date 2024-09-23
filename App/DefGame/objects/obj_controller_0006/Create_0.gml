@@ -1,9 +1,10 @@
 global.plrhp = 100
 global.plrcharge = 100
 global.plrimm = false
-global.plrlives = 100
+global.plrlives = 3
 global.ltrfirstavailable = ds_list_create()
 global.diffics = ds_map_create()
+cursor_sprite = spr_cursor
 ds_map_add(global.diffics, 0, make_color_rgb(109, 208, 247))
 ds_map_add(global.diffics, 1, make_color_rgb(0, 255, 255))
 ds_map_add(global.diffics, 2, make_color_rgb(0, 255, 0))

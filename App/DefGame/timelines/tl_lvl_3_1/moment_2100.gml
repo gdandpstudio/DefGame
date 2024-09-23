@@ -1,0 +1,8 @@
+killspwnrand()
+killspwnrand()
+killspwnrand()
+killspwnrand()
+killspwnrand()
+killspwnrand()
+killspwnrand()
+killspwnrand()

@@ -1,1 +1,1 @@
-TrStrt(rm_restart, seq_Fadein, seq_Fadeout)
+if(visible) TrStrt(rm_restart, seq_Fadein, seq_Fadeout)

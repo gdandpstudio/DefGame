@@ -11,12 +11,14 @@
     {"name":"inst_61250B11","path":"rooms/rm_lv0_1/rm_lv0_1.yy",},
     {"name":"inst_304C2482","path":"rooms/rm_lv0_1/rm_lv0_1.yy",},
     {"name":"inst_3532814E","path":"rooms/rm_lv0_1/rm_lv0_1.yy",},
+    {"name":"inst_2E3E90B0","path":"rooms/rm_lv0_1/rm_lv0_1.yy",},
   ],
   "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"lvldata","depth":0,"effectEnabled":true,"effectType":"_filter_outline","gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v1","%Name":"inst_304C2482","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_304C2482","objectId":{"name":"obj_lvlname","path":"objects/obj_lvlname/obj_lvlname.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":64.0,"y":64.0,},
         {"$GMRInstance":"v1","%Name":"inst_3532814E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_3532814E","objectId":{"name":"obj_score","path":"objects/obj_score/obj_score.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":32.0,"y":960.0,},
+        {"$GMRInstance":"v1","%Name":"inst_2E3E90B0","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_2E3E90B0","objectId":{"name":"obj_controller_0014","path":"objects/obj_controller_0014/obj_controller_0014.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":64.0,"y":320.0,},
       ],"layers":[],"name":"lvldata","properties":[
         {"name":"g_OutlineColour","type":1,"value":"#FF000000",},
         {"name":"g_OutlineRadius","type":0,"value":"1",},

@@ -4,5 +4,5 @@ global.scorew = 0;
 global.scorewn = 0;
 global.lvname = ""
 global.lvauth = ""
-cursor_sprite = spr_cursor
+
 
