@@ -1,0 +1,5 @@
+ini_open("bios.ini")
+b = ini_read_real("other", "kitstate", 0)
+ini_close()
+if(b = 0) room_goto(rm_kit_inst)
+if(b = 1) room_goto(rm_se1dsoft_kitiOS)

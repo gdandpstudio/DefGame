@@ -1,10 +1,14 @@
 draw_self()
 draw_set_font(fnt25)
-if(!uc){
+if(!uc && !gjlp){
 	draw_set_color(c_white)
 	draw_text(x, y, ">~ " + keyboard_string + "|")
 }
-else{
+else if(uc){
 	draw_set_color(c_red)
 	draw_text(x, y, "Unknown command.")
+}
+else if(gjlp){
+	draw_set_color(c_lime)
+	draw_text(x, y, "You have to reboot to GJL mode to continue\n[Y] - proceed\n[N] - cancel")
 }

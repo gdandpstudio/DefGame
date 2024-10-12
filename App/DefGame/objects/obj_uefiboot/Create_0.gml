@@ -1,6 +1,4 @@
 ini_open("bios.ini")
-a = base64_decode(base64_decode(base64_decode(ini_read_string("other", "kit", ""))))
+a = ini_read_real("other", "kitstate", 0)
 ini_close()
-ini_open("gj.ini")
-b = ini_read_string("GameJolt", "gj_un", "")
-ini_close()
+keyboard_string = ""

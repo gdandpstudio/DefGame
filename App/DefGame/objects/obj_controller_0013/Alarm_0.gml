@@ -1,4 +1,5 @@
-/// @DnDAction : YoYo Games.Game.Restart_Game
-/// @DnDVersion : 1
-/// @DnDHash : 53A3DA99
-game_restart();
+if(global.gjreb){
+	global.gjreb = false
+	room_goto(rm_gjlogin)
+}
+else game_restart();

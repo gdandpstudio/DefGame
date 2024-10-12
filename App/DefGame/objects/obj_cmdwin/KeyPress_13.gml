@@ -17,6 +17,10 @@ if(keyboard_string	== "rmdir 0>bin"){
 	ini_close()
 	room_goto(rm_err_1)
 }
+if(keyboard_string == "gj login" && gjlp == false){
+	gjlp = true
+}
+
 if(!c){
 	uc = true
 	alarm_set(0, 90)

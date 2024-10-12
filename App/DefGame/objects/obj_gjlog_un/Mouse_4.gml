@@ -1,0 +1,1 @@
+global.gjsel = 0

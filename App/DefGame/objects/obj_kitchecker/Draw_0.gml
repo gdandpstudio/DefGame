@@ -1,0 +1,16 @@
+draw_text(x, y, "Booting up...")
+if(a > 0) draw_text(x, y, "\nChecking files...")
+if(a > 1) draw_text(x, y, "\n\nChecking installation...")
+if(a > 2) draw_text(x, y, "\n\n\nStart init")
+if(a > 3) draw_text(x, y, "\n\n\n\nLoaded KitOS")
+if(a > 4) draw_text(x, y, "\n\n\n\n\nLoaded applicatiions")
+if(a > 5) draw_text(x, y, "\n\n\n\n\n\nLoaded assets")
+if(a > 6) draw_text(x, y, "\n\n\n\n\n\n\nStarting system services...")
+if(a > 7) draw_text(x, y, "\n\n\n\n\n\n\n\nLoading desktop enviroment...")
+if(a > 8) draw_text(x, y, "\n\n\n\n\n\n\n\n\nCleaning...")
+if(a > 9)
+{
+	ini_open("gj.ini")
+	draw_text(x, y, "\n\n\n\n\n\n\n\n\n\nWelcome, " + ini_read_string("GameJolt", "gj_un", "User") + "!")
+	ini_close()
+}
