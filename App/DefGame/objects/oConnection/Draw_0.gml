@@ -27,11 +27,11 @@ if(k == 1)
 		var j = string(ds_list_find_value(global.chat_messages, 9))
 		if(j == "undefined"){j = ""}
 		draw_set_font(fnt25)
-		draw_text(x, y, j + "\n" + i + "\n" + h + "\n" + g + "\n" + f + "\n" + e + "\n" + d + "\n" + c + "\n" + b + "\n" + a)
+		draw_text(x + 10, y + 6, j + "\n" + i + "\n" + h + "\n" + g + "\n" + f + "\n" + e + "\n" + d + "\n" + c + "\n" + b + "\n" + a)
 	}
 }
 else
 {
 	draw_set_font(fnt25)
-	draw_text(x, y, "Twitch is not enabled.")
+	draw_text(x + 10, y + 6, "Twitch is not enabled.")
 }

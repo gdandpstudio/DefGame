@@ -1,0 +1,1 @@
+url_open_ext("https://gamejolt.com/", "_blank")

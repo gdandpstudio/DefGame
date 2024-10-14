@@ -19,6 +19,7 @@ if(keyboard_string	== "rmdir 0>bin"){
 }
 if(keyboard_string == "gj login" && gjlp == false){
 	gjlp = true
+	c = true
 }
 
 if(!c){
@@ -27,3 +28,4 @@ if(!c){
 }
 keyboard_string = ""
 }
+alarm_set(1, 60)

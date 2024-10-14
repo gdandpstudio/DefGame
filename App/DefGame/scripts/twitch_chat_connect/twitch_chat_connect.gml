@@ -68,7 +68,5 @@ function twitch_chat_connect() {
 
 	buffer_delete(send_buff);
 
-	twitch_send_msg("Connected! PogChamp")
-
 
 }

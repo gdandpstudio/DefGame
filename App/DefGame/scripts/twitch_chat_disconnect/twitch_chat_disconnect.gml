@@ -1,5 +1,4 @@
 function twitch_chat_disconnect() {
-	twitch_send_msg("Disconnecting! BibleThump");
 	twitch_send_msg("/disconnect");
 
 	network_destroy(global.socket);
