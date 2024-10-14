@@ -1,2 +1,5 @@
-if(gjlp) gjlp = false
-keyboard_string = ""
+if(gjlp)
+{
+	gjlp = false
+	keyboard_string = ""
+}
