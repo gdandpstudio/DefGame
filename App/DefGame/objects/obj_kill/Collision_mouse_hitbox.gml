@@ -1,1 +1,0 @@
-if(global.plrimm == false){	global.plrhp += -2;}
