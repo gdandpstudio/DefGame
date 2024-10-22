@@ -1,1 +1,1 @@
-global.scorew_max = 3600
+lvlinit(3600, "Grandma village hit, collab of the year", "By Dj.Chasy X Dj.Holodilnik", snd_lvl_secret)

@@ -1,1 +1,1 @@
-global.scorew_max = 1700
+lvlinit(1700, "Memory Box (instrumental)", "By [NCS]ROY KNOX (not samsung knox)", snd_lvl_3)

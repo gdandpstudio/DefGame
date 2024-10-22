@@ -1,1 +1,1 @@
-global.scorew_max = 900
+lvlinit(900, "Nightmare", "By plenka", snd_lvl_1)

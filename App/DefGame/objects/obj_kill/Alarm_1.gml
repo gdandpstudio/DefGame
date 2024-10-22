@@ -1,4 +1,4 @@
-if(global.plrimm == false)
+if(global.plrimm == false && place_meeting(x, y, mouse_hitbox))
 {
 	global.plrhp += -30;
 }

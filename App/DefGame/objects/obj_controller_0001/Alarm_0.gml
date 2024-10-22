@@ -7,5 +7,5 @@ if(a == 1)
 }
 else
 {
-	room_goto(rm_lv0)
+	room_goto(rm_lvl_0)
 }

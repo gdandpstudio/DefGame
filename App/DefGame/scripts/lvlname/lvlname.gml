@@ -12,3 +12,16 @@ function lvlname(){
 		draw_self()
 	}
 }
+
+///@param {real}max_score
+///@param {string}name
+///@param {string}author
+///@param {any}level_music
+function lvlinit(){
+	global.scorew_max = argument0
+	global.scorew = 0
+	global.scorewn = 0
+	global.lvname = argument1
+	global.lvauth = argument2
+	global.lvlsnd = argument3
+}

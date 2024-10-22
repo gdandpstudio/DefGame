@@ -1,17 +1,17 @@
 {
   "$GMRoom":"v1",
-  "%Name":"rm_lv0",
-  "creationCodeFile":"rooms/rm_lv0/RoomCreationCode.gml",
+  "%Name":"rm_lvl_0",
+  "creationCodeFile":"rooms/rm_lvl_0/RoomCreationCode.gml",
   "inheritCode":false,
   "inheritCreationOrder":false,
   "inheritLayers":false,
   "instanceCreationOrder":[
-    {"name":"inst_696EB491","path":"rooms/rm_lv0/rm_lv0.yy",},
-    {"name":"inst_49222AD1","path":"rooms/rm_lv0/rm_lv0.yy",},
-    {"name":"inst_6C53A33D","path":"rooms/rm_lv0/rm_lv0.yy",},
-    {"name":"inst_84F958E","path":"rooms/rm_lv0/rm_lv0.yy",},
+    {"name":"inst_696EB491","path":"rooms/rm_lvl_0/rm_lvl_0.yy",},
+    {"name":"inst_49222AD1","path":"rooms/rm_lvl_0/rm_lvl_0.yy",},
+    {"name":"inst_6C53A33D","path":"rooms/rm_lvl_0/rm_lvl_0.yy",},
+    {"name":"inst_84F958E","path":"rooms/rm_lvl_0/rm_lvl_0.yy",},
   ],
-  "isDnd":true,
+  "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"ltrslay","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v1","%Name":"inst_84F958E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_84F958E","objectId":{"name":"obj_controller_0014","path":"objects/obj_controller_0014/obj_controller_0014.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":64.0,"y":160.0,},
@@ -30,7 +30,7 @@
     {"$GMRAssetLayer":"","%Name":"Assets_1","assets":[],"depth":300,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Assets_1","properties":[],"resourceType":"GMRAssetLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294901760,"depth":400,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
-  "name":"rm_lv0",
+  "name":"rm_lvl_0",
   "parent":{
     "name":"lvls",
     "path":"folders/Румы/lvls.yy",

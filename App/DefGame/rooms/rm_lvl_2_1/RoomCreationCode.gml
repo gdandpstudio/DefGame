@@ -1,1 +1,1 @@
-global.scorew_max = 1300
+lvlinit(900, "Sky High pt. II", "By [NCS]Elektronomia", snd_lvl_2)
