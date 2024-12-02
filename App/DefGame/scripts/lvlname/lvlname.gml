@@ -25,3 +25,9 @@ function lvlinit(){
 	global.lvauth = argument2
 	global.lvlsnd = argument3
 }
+
+function lvlcompl(){
+	ini_open("bios.ini")
+	ini_write_real("bios", "level", ini_read_real("bios", "level", 1) + 1)
+	ini_close()
+}
