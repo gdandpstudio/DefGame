@@ -524,6 +524,8 @@
     {"name":"spr_u","order":20,"path":"sprites/spr_u/spr_u.yy",},
     {"name":"spr_update","order":48,"path":"sprites/spr_update/spr_update.yy",},
     {"name":"spr_v","order":21,"path":"sprites/spr_v/spr_v.yy",},
+    {"name":"spr_vdo","order":91,"path":"sprites/spr_vdo/spr_vdo.yy",},
+    {"name":"spr_virus","order":90,"path":"sprites/spr_virus/spr_virus.yy",},
     {"name":"spr_w","order":22,"path":"sprites/spr_w/spr_w.yy",},
     {"name":"spr_wallpapersigma","order":2,"path":"sprites/spr_wallpapersigma/spr_wallpapersigma.yy",},
     {"name":"Spr_Water_arc","order":18,"path":"sprites/Spr_Water_arc/Spr_Water_arc.yy",},

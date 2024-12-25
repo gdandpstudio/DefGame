@@ -86,7 +86,7 @@
     {"name":"Sparkle","path":"particlelib/Sparkle/Sparkle.yy",},
   ],
   "MetaData":{
-    "IDEVersion":"2024.8.1.171",
+    "IDEVersion":"2024.11.0.179",
   },
   "name":"DefGame",
   "resources":[
@@ -598,6 +598,8 @@
     {"id":{"name":"spr_u","path":"sprites/spr_u/spr_u.yy",},},
     {"id":{"name":"spr_update","path":"sprites/spr_update/spr_update.yy",},},
     {"id":{"name":"spr_v","path":"sprites/spr_v/spr_v.yy",},},
+    {"id":{"name":"spr_vdo","path":"sprites/spr_vdo/spr_vdo.yy",},},
+    {"id":{"name":"spr_virus","path":"sprites/spr_virus/spr_virus.yy",},},
     {"id":{"name":"spr_w","path":"sprites/spr_w/spr_w.yy",},},
     {"id":{"name":"spr_wallpapersigma","path":"sprites/spr_wallpapersigma/spr_wallpapersigma.yy",},},
     {"id":{"name":"Spr_Water_arc","path":"sprites/Spr_Water_arc/Spr_Water_arc.yy",},},
